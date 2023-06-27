@@ -8,7 +8,7 @@ My main focus is JavaScript eco-system, both Frontend and Backend, but I am also
 
 * 🌍  I'm based in Serbia
 * 🖥️  See my portfolio at [my site (still work in progress)](http://www.tronetti.com)
-* ✉️  You can contact me at [marko.petrovic@hey.com](mailto:marko.petrovic@hey.com)
+* ✉️  For first contact its best to write me on twitter or contact form on site!
 * 🧠  I'm learning MongoDB (expanding my knowledge)
 * ⚡  I am actually split personality between programmer and No Code builder 😅
 
